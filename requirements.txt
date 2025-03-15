@@ -1,8 +1,0 @@
-numpy
-opencv-python-headless
-matplotlib
-scikit-learn
-tensorflow
-pandas
-seaborn
-pillow
